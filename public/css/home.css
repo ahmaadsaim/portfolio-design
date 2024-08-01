@@ -1,0 +1,99 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+
+#main_content{
+    padding-top: 15px;
+    background-color: black;
+}
+
+#h1-content{
+    color: #C5C5C5;
+    font-family: Poppins;
+    margin-bottom: -13px;
+}
+
+#text-two{
+    margin-bottom: 25px;
+}
+
+.span-class{
+    background: linear-gradient(to right, rgb(235, 196, 24), rgb(255, 0, 0));
+    -webkit-background-clip: text;
+    color: transparent;
+}
+
+#ex-1{
+    font-family: Poppins;
+    color: #C5C5C5;
+}
+
+#first-text{
+    font-size:xx-large;
+    text-align: center;
+    line-height: 1;
+}
+
+#text-2{
+    text-align: center;
+    font-family: Poppins;
+    color: #C5C5C5;
+    font-size: small;
+}
+
+#button-1 , #button-2 {
+    font-family: Poppins;
+    border-radius: 20px;
+    border: 2px solid black;
+    padding: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+
+
+#b2, #b1{
+    font-weight: 700;
+    display: inline;
+}
+
+#b2{
+    color: white;
+}
+
+#button-1{
+    background-color: white;
+    border: 1px solid white;
+
+}
+
+#button-2{
+    background-color: #333333;
+    border: 1px solid white;
+}
+
+#image-div{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 25px;
+}
+
+#buttons-div{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-bottom: 47px;
+}
+
+#ex-logo{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+#ex-1{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+}

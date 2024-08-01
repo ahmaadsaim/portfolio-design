@@ -1,0 +1,42 @@
+#main-h1{
+    background: linear-gradient(to right, rgb(235, 196, 24), rgb(255, 0, 0));
+    -webkit-background-clip: text;
+    color: transparent;
+    font-family: Poppins;
+}
+
+#image-div{
+    border-radius: 10px;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+#main{
+    background-color: black;
+}
+
+#img1{
+    border-radius: 10px 10px 0px 0px;
+}
+
+#cs1{
+    font-family: Poppins;
+    color: white;
+    letter-spacing: 2px;
+    display: flex;
+    justify-content: center;
+}
+
+#h1-heading{
+    display: flex;
+    justify-content: center;
+}
+
+/* #main-img-div{
+    display: flex;
+    justify-content: center;
+} */
+
